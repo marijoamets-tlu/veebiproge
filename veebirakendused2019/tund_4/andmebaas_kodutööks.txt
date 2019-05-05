@@ -1,0 +1,2 @@
+Hinne päevale
+CREATE TABLE `andrusrinde`.`vr_grade_for_day` ( `id` INT(11) NOT NULL AUTO_INCREMENT , `userid` INT(5) NOT NULL , `grade` INT(2) NOT NULL , `day` DATE NOT NULL , PRIMARY KEY (`id`)) ENGINE = InnoDB;
